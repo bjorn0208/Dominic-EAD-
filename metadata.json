@@ -1,0 +1,8 @@
+{
+  "name": "Nexum AI",
+  "description": "Uma plataforma inteligente de agentes e cérebro digital integrada ao Obsidian e múltiplos provedores de LLM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
